@@ -15,13 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: Allison Morrell
 # email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-This is the personal site for Allison Morrell. Allison is a lawyer, legal tech enthusiast and self-taught coder.
+description: This is the personal site for Allison Morrell. Allison is a lawyer, legal tech enthusiast and self-taught coder.
 domain: allisonmorrell.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""  # the subpath of your site, e.g. /blog
 url: https://allisonmorrell.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 markdown: kramdown
