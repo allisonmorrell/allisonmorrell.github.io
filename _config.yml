@@ -24,12 +24,10 @@ url: https://allisonmorrell.github.io # the base hostname & protocol for your si
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
-
-
-show_downloads: false
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
