@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Linkcite tools"
+date:   2023-02-21 00:19:31 +0000
+categories: projects statutes
+---
+
+These two tools use regular expressions to locate and manipulate citations to Canadian case law and statutes. 
+
+The live versions are hosted here: 
+* [Citation Finder](https://allisonmorrell.github.io/linkcite/citation-finder.html)
+* [Citation Linker](https://allisonmorrell.github.io/linkcite/citation-linker.html)
+
+See [Linkcite on GitHub](https://github.com/allisonmorrell/linkcite).

@@ -19,6 +19,7 @@ description: Thoughts on the intersections of law, process, and technology, bits
 domain: allisonmorrell.github.io
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: https://allisonmorrell.github.io # the base hostname & protocol for your site, e.g. http://example.com
+author: Allison Morrell
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
