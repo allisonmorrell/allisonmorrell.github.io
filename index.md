@@ -3,4 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 ---
+
+## What is this
+A solution to endless procrastinating on creating a site.
